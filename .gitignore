@@ -53,3 +53,8 @@ google-services.json
 freeline.py
 freeline/
 freeline_project_description.json
+将删除 .gitignore
+将删除 build.gradle
+将删除 libs/
+将删除 proguard-rules.pro
+将删除 src/
